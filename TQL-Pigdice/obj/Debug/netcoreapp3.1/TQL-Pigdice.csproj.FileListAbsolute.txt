@@ -1,0 +1,13 @@
+C:\repos\TQL-Pigdice\TQL-Pigdice\bin\Debug\netcoreapp3.1\TQL-Pigdice.exe
+C:\repos\TQL-Pigdice\TQL-Pigdice\bin\Debug\netcoreapp3.1\TQL-Pigdice.deps.json
+C:\repos\TQL-Pigdice\TQL-Pigdice\bin\Debug\netcoreapp3.1\TQL-Pigdice.runtimeconfig.json
+C:\repos\TQL-Pigdice\TQL-Pigdice\bin\Debug\netcoreapp3.1\TQL-Pigdice.runtimeconfig.dev.json
+C:\repos\TQL-Pigdice\TQL-Pigdice\bin\Debug\netcoreapp3.1\TQL-Pigdice.dll
+C:\repos\TQL-Pigdice\TQL-Pigdice\bin\Debug\netcoreapp3.1\TQL-Pigdice.pdb
+C:\repos\TQL-Pigdice\TQL-Pigdice\obj\Debug\netcoreapp3.1\TQL-Pigdice.csproj.AssemblyReference.cache
+C:\repos\TQL-Pigdice\TQL-Pigdice\obj\Debug\netcoreapp3.1\TQL-Pigdice.AssemblyInfoInputs.cache
+C:\repos\TQL-Pigdice\TQL-Pigdice\obj\Debug\netcoreapp3.1\TQL-Pigdice.AssemblyInfo.cs
+C:\repos\TQL-Pigdice\TQL-Pigdice\obj\Debug\netcoreapp3.1\TQL-Pigdice.csproj.CoreCompileInputs.cache
+C:\repos\TQL-Pigdice\TQL-Pigdice\obj\Debug\netcoreapp3.1\TQL-Pigdice.dll
+C:\repos\TQL-Pigdice\TQL-Pigdice\obj\Debug\netcoreapp3.1\TQL-Pigdice.pdb
+C:\repos\TQL-Pigdice\TQL-Pigdice\obj\Debug\netcoreapp3.1\TQL-Pigdice.genruntimeconfig.cache
